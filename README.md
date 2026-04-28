@@ -18,10 +18,10 @@
 
 ## 📖 个人简介
 ```text
-[👨‍💻 职业: 学生党]
-[🌱 当前正在学习: PHP、TypeScript、GitHub Actions]
-[🔭 正在研究: MediaWiki]
-[💡 兴趣爱好: 写MediaWiki脚本，鼓捣AI相关应用]
+👨‍💻 职业: 学生党
+🌱 当前正在学习: PHP、TypeScript、GitHub Actions
+🔭 正在研究: MediaWiki
+💡 兴趣爱好: 写MediaWiki脚本，鼓捣AI相关应用
 ```
 
 ---
